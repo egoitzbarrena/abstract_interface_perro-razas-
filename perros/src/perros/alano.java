@@ -1,5 +1,5 @@
 package perros;
 
-public class alano {
+public class alano extends perro implements lebrel,dogo {
 
 }
